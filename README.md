@@ -4,7 +4,7 @@ SPIDER is an advanced virtual assistant powered by Python, OpenCV for face recog
 
 ### Working: [Link](https://www.linkedin.com/posts/anujbisht78_machinelearning-datascience-nltk-activity-7173168627888709632-2OIw?utm_source=share&utm_medium=member_android)
 ## Layout:
-<img width="800px;" src="https://github.com/anujbisht78/SMS-spam-Detection/blob/main/raw/SMS.jpg"/>
+<img width="800px;" src="https://github.com/anujbisht78/SPIDER/blob/main/Jarvis_Gui%20(1).gif"/>
 
 
 ## Table of Contents
