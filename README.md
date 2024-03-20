@@ -2,7 +2,7 @@
 
 SPIDER is an advanced virtual assistant powered by Python, OpenCV for face recognition, and PyQT5 for its intuitive GUI. Fluent in both English and Hindi, SPIDER offers personalized interactions, recognizing authorized users instantly. From managing tasks like playing music, handling operating systems, and sending messages, to engaging in interactive games, SPIDER adapts to your needs seamlessly. Its open-ended framework allows for easy customization, promising a versatile and secure AI companion for enhancing digital experiences.
 
-### Working: [Link](https://www.linkedin.com/posts/anujbisht78_machinelearning-datascience-nltk-activity-7173168627888709632-2OIw?utm_source=share&utm_medium=member_android)
+### Working: [Link](https://www.linkedin.com/posts/anujbisht78_spider-virtual-voice-activity-7175887197831663617-SKht?utm_source=share&utm_medium=member_desktop)
 ## Layout:
 <img width="800px;" src="https://github.com/anujbisht78/SPIDER/blob/main/Jarvis_Gui%20(1).gif"/>
 
